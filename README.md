@@ -7,6 +7,3 @@ Toontown Infinite music pack for corporate clash. This includes almost all of th
 
 # Credits
 Toontown infinite for the music
-
-# Bugs
-* CFO cutscene music doesnt work.

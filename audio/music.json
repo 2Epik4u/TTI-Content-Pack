@@ -196,7 +196,7 @@
     "cfo_epilogue": "audio/phase_9/audio/bgm/encntr_hall_of_fame.ogg",
     "lawbot_courtyard": "audio/phase_11/audio/bgm/LB_courtyard.ogg",
     "lawbot_courtyard_battle": "audio/phase_11/audio/bgm/LB_encntr.ogg",
-    "lawbot_lawfice_lobby": "audio/phase_11/audio/bgm/LB_office_lobby.ogg",
+    "lawbot_lawfice_lobby": "audio/phase_11/audio/bgm/LB_courtyard.ogg",
     "lawbot_lawfice_lobby_battle": "audio/phase_11/audio/bgm/LB_encntr.ogg",
     "lawbot_lobby": "audio/phase_11/audio/bgm/LB_courtyard.ogg",
     "lawbot_lawfice_a": "audio/phase_9/audio/bgm/CHQ_FACT_bg.ogg",

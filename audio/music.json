@@ -168,7 +168,7 @@
     "sellbot_factory_interior": "audio/phase_9/audio/bgm/CHQ_FACT_bg.ogg",
     "vp_elevator": "audio/phase_7/audio/bgm/tt_elevator.ogg",
     "vp_intro_cutscene": "audio/phase_9/audio/bgm/VP_intro_cutscene.ogg",
-    "vp_battle_one": "audio/phase_7/audio/bgm/VP_round_1.ogg",
+    "vp_battle_one": "audio/phase_9/audio/bgm/VP_round_1.ogg",
     "vp_flee_cutscene": "audio/phase_9/audio/bgm/encntr_toon_winning.ogg",
     "vp_cage_toon_skelecogs": "audio/phase_7/audio/bgm/encntr_suit_winning_indoor.ogg",
     "vp_battle_two": "audio/phase_9/audio/bgm/VP_round_2.ogg",

@@ -4,6 +4,7 @@ Toontown Infinite music pack for corporate clash. This includes almost all of th
 # Features
 * TTI Music
 * TTI cursor
-
+# How to use
+Go over to the releases and download the TTI.mf And track it to your contentpacks folder, Or clone the repository and run makemf.bat to generate a Multifile.
 # Credits
 Toontown infinite for the music

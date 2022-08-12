@@ -1,5 +1,9 @@
+# NOTE
+This is being archived, because i don't play clash that much anymore and dont feel like maintaining this anymore.
+
+
 # TTI-Music-Pack
-Toontown Infinite music pack for corporate clash. This includes almost all of the sound tracks. All the music from tti is here and you can add it in the music.json if you want. This takes advantage of the Music.json on corporate clash, so it wont work on any private servers. For a TTR Version of this texture pack, https://github.com/Thunderzapper/ttr-infinite-musicpack
+Toontown Infinite music pack for corporate clash. This includes almost all of the sound tracks. All the music from tti is here and you can add it in the music.json if you want. This takes advantage of the Music.json on corporate clash, so it wont work on any private servers.
 
 # Features
 * TTI Music
